@@ -1,8 +1,8 @@
 # git 下载
 Git 是一个版本控制系统，也可以理解为一个工具，跟 Java 类似，使用之前必须先进行下载安装， Mac 笔记本上其实系统自带了 Git ，不过这里统一提供各平台的安装方式，这部分就不过多介绍，相信大家可以搞定。
-Mac：https://sourceforge.net/projects/git-osx-installer/
-Windows：https://git-for-windows.github.io/
-Linux：apt-get install git
+- Mac：https://sourceforge.net/projects/git-osx-installer/
+- Windows：https://git-for-windows.github.io/
+- Linux：apt-get install git
 
 
 # Software
