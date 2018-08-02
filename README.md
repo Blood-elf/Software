@@ -2,10 +2,11 @@
 manage software
 
 
-sourcetree 下载
+# sourcetree 下载
 https://www.sourcetreeapp.com/
 
-SourceTree windows版本免注册免登陆使用方法：
+# SourceTree windows版本免注册免登陆使用方法：
+```
 在目录C:\Users\{youruser}\AppData\Local\Atlassian\SourceTree 下创建文件accounts.json ，注意：{youruser}需要替换为登录系统用户名。
 [
   {
@@ -30,3 +31,4 @@ SourceTree windows版本免注册免登陆使用方法：
     "IsDefault": false
   }
 ]
+```
